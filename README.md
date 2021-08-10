@@ -1,6 +1,6 @@
 ### Hi there, I'm Mikko 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jnmkkmlzn)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jnmkkmlzn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jnmkkmlzn)
 
 ## I'm a Student | Aspiring Web developer!!
 
@@ -14,7 +14,9 @@
 <!-- [<img align="left" alt="" width="22px" src="" />][website] -->
 
 [<img align="left" alt="jmmalizon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jmmalizon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<!-- [<img align="left" alt="jmmalizon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+
 [<img align="left" alt="jmmalizon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
