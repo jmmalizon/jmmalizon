@@ -2,21 +2,21 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jnmkkmlzn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jnmkkmlzn)
 
-## I'm a Student | Aspiring Web developer!!
+## I'm an aspiring Web developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more and be active as much as possible
+- 🌱 Currently, I am expanding my knowledge in various areas.
 - ⚡ Fun fact: I love to draw and play soccer
 
 ### Connect with me:
 
 <!-- [<img align="left" alt="" width="22px" src="" />][website] -->
 
-[<img align="left" alt="jmmalizon | Twitter" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jmmalizon | Twitter" width="22px" style="fill: red" fill="red" src="https://user-images.githubusercontent.com/62149357/234504639-46933723-a4ea-4cf5-aafc-9dfb8dd60a5d.png" />][twitter]
 
-<!-- [<img align="left" alt="jmmalizon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+[<img align="left" alt="jmmalizon | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/62149357/234505092-b2733fa8-5bd4-4226-8f73-0dcbf522cea4.png" />][linkedin]
 
-[<img align="left" alt="jmmalizon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jmmalizon | Instagram" width="22px" src="https://user-images.githubusercontent.com/62149357/234505673-ce1c7f7f-78be-471c-b61b-20e9169ed48d.png" />][instagram]
+
 
 <br />
 
@@ -38,16 +38,18 @@
 <br />
 <br />
 
-<details>
+
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
+START_SECTION:activity
 
-<!--END_SECTION:activity-->
+END_SECTION:activity
 
-</details>
+</details>  -->
 
 [twitter]: https://twitter.com/jnmkkmlzn
 [instagram]: https://www.instagram.com/jan_mikko/
+[linkedin]: https://www.linkedin.com/in/jan-mikko-malizon-456270234/
 
 <!-- [linkedin]: https://linkedin.com/in/codeSTACKr -->
